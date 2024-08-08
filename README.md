@@ -46,7 +46,7 @@ Análise do Impacto do Novo Software
 ### **Exemplo de Seção Ampliada:**
 
 ```markdown
-## Gráfico 1: Comparação do TMA entre os Softwares
+Gráfico 1: Comparação do TMA entre os Softwares
 
 Neste gráfico, utilizamos um scatter plot para visualizar a evolução do Tempo Médio de Atendimento (TMA) ao longo do tempo para ambos os softwares. Cada ponto representa o TMA médio de um determinado período. As cores azul e vermelho diferenciam os dados do novo e do antigo software, respectivamente.
 
