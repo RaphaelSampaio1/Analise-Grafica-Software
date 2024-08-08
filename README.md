@@ -52,6 +52,6 @@ Neste gráfico, utilizamos um scatter plot para visualizar a evolução do Tempo
 
 As anotações em cada ponto facilitam a comparação direta dos valores. Observa-se que o TMA do novo software é consistentemente menor, indicando um tempo de atendimento médio significativamente mais rápido.
 
-(https://github.com/RaphaelSampaio1/Analise-Grafica-Software/issues/1#issue-2455775275)](https://github.com/RaphaelSampaio1/Analise-Grafica-Software/issues/1#issue-2455775275)
+![Gráfico de TMA](https://github.com/RaphaelSampaio1/Analise-Grafica-Software/blob/main/images/grafico_tma.png)
 
 
