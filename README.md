@@ -52,4 +52,6 @@ Neste gráfico, utilizamos um scatter plot para visualizar a evolução do Tempo
 
 As anotações em cada ponto facilitam a comparação direta dos valores. Observa-se que o TMA do novo software é consistentemente menor, indicando um tempo de atendimento médio significativamente mais rápido.
 
+![Gráfico Final](https://raw.githubusercontent.com/seu_usuario/seu_repositorio/main/c3.png)
+
 
